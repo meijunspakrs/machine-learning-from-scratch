@@ -1,0 +1,49 @@
+# Trustworthy AgentOps
+
+**A Trustworthy Multi-Agent AI System for Document and Contract Analysis**
+
+## Project Overview
+
+Trustworthy AgentOps is a senior capstone project focused on improving the reliability, transparency, and accountability of multi-agent AI workflows.
+
+The project explores how to detect, report, and recover from failures when multiple AI agents collaborate on document and contract analysis.
+
+## Key Features
+
+- **Multi-Agent Workflow Monitoring:** Track interactions and communication between AI agents.
+- **Structured Event Logging:** Record agent activities using a consistent event schema.
+- **Rule-Based Failure Detection:** Identify potential workflow violations and abnormal behavior.
+- **Fault Injection Testing:** Generate controlled failure scenarios to evaluate detection mechanisms.
+- **Auditability:** Produce structured evidence to support investigation and debugging.
+
+## Technologies
+
+- Python
+- JSON
+- Jupyter Notebook
+- Git and GitHub
+- Rule-Based Detection
+- Multi-Agent AI Systems
+
+## Project Architecture
+
+The project is organized around three main components:
+
+1. **Event Generator:** Creates structured agent interaction events and seeded failure scenarios.
+2. **Detection Engine:** Evaluates event logs against predefined rules.
+3. **Audit Output:** Records detection verdicts and supporting evidence.
+
+## Project Goals
+
+- Improve the reliability of multi-agent AI systems.
+- Detect communication and workflow failures.
+- Support transparent and reproducible AI auditing.
+- Explore trustworthy AI engineering practices.
+
+## Project Status
+
+Under Development — Senior Capstone Project
+
+## My Contributions
+
+*To be updated with my implemented components, testing results, and technical contributions.*
